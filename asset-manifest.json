@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/gha-dash/static/js/main.170d0459.js",
+    "index.html": "/gha-dash/index.html",
+    "main.170d0459.js.map": "/gha-dash/static/js/main.170d0459.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.170d0459.js"
+  ]
+}
